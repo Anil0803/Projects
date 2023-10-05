@@ -1,0 +1,25 @@
+@charset "UTF-8";@charset "UTF-8";
+.register{
+	background-color: teal;
+	margin:30%;
+	margin-top:5%;
+	padding:40px;
+}
+
+.log{
+	background-color: teal;
+	margin:30%;
+	margin-top:5%;
+	padding:40px;
+}
+input[type=text], input[type=email] ,input[type=submit],input[type=password]{
+	padding: 5px;
+	width: 80%;
+	border-radius: 10px;
+	
+}
+textarea{
+	width: 80%;
+	padding: 5px;
+	border-radius: 10px;
+}
